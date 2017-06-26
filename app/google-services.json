@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105510622410",
+    "firebase_url": "https://places-14626.firebaseio.com",
+    "project_id": "places-14626",
+    "storage_bucket": "places-14626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105510622410:android:0a246484c90e3c3f",
+        "android_client_info": {
+          "package_name": "com.android.app.places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105510622410-p3iafp32tbfnj5muduva26pmgd7egaf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.app.places",
+            "certificate_hash": "5985561861ca1ba98049fb45a7785d75494183c8"
+          }
+        },
+        {
+          "client_id": "105510622410-1gsju63alb1kia3n187pq0ptt03olfln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxKXAqTPWlufS6ECK6L2xK9Vo87mE88E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105510622410-1gsju63alb1kia3n187pq0ptt03olfln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
